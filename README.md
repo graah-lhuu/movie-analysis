@@ -16,9 +16,9 @@ movie-analysis/
 └── README.md
 
 ### 运行步骤
-1.将数据文件放入 data/raw/目录
-2.打开 notebooks/movie-analysis.ipynb
-3.逐个运行单元格或运行全部
+1.将数据文件放入 data/raw/目录  
+2.打开 notebooks/movie-analysis.ipynb  
+3.逐个运行单元格或运行全部  
 
 ## 📊分析内容
 数据清洗与预处理  
